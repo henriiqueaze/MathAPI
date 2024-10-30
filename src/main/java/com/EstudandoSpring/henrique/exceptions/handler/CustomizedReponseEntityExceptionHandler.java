@@ -1,7 +1,7 @@
-package com.EstudandoSpring.henrique.Exceptions.handler;
+package com.EstudandoSpring.henrique.exceptions.handler;
 
-import com.EstudandoSpring.henrique.Exceptions.ExceptionResponse;
-import com.EstudandoSpring.henrique.Exceptions.UnsuportedMathOperationException;
+import com.EstudandoSpring.henrique.exceptions.ExceptionResponse;
+import com.EstudandoSpring.henrique.exceptions.UnsuportedMathOperationException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;
